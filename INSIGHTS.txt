@@ -1,0 +1,53 @@
+Despite being the most populated, New York is at 44th place in accidents.
+In past 6 years (2017-2022) yearly 29422 road accidents (average) happened in Miami.
+In Miami averagely in every 24 hours 81 accidents occurred.
+3 out of top 10 cities with most no. of accident cases is from the state, Texas.
+7.67% (1036 Cities) cities in US, have only 1 accident record in past 6 years.
+91.5% (12,349 Cities) cities in US, have the road accident records (2017-2022), less than 1,000.
+There are more than 1151 Cities (8.5%) in US, which have more than 1,000 total no. of road accidents in past 6 years.
+Only 93 Cities (0.69%) in US, have more than 10,000 road accident records.
+In US, California is the state with highest no. of road accidents in past 6 years.
+About 21.6% of the total accident records of past 6 years in US is only from California.
+In past 6 years, averagely 697 accidents (daily) happened in California implies approximately 29 accidents per hour.
+Florida is the 2nd highest (11.61% cases) state for no. road accidents in US.
+South Dakota is the city with lowest no. of road accidents in past 6 years.
+Only 281 accidents took place in South Dakota in past 6 years implies yearly 47 cases in average.
+Eastern time zone region of US has the highest no. of road accident cases (46.81%) in past 6 years.
+Mountain time zone region of US has the lowest no. of road accident cases (5.8%) in past 6 years.
+In last 6 years Street No. I-95 N is having the highest road accidents records.
+In Street No. I-5 N, daily 33 accidents occurred in average.
+There are 125925 Streets (39%) in US which have only 1 accident record in past 6 years.
+97% Streets of US, have less than 100 road accident cases.
+Only 0.23% Streets in US have the accident cases greater than 1000.
+In last 6 years record of road accidents, only 56 Streets (0.017%) have greater than 10000 cases.
+79.87% Cases of road accidents, the impact on the traffic was Moderate (Severity-2).
+In 2.6% Cases of road accidents, the impact on the traffic was highly Severe (Severity-4).
+It is inferred that majority (24.25%) of road accidents, have impacted on the traffic flow for 6 hours.
+From the above figure, it is clear that in last 6 years in US accidents percentage has increased significantly.
+47% of the total road accident records of last 6 years happened only within last 2 years (2021, 2022).
+In last 6 years (2017-2022) highly severe (Severity-4) accident cases in us nearly doubles(0.34% to 0.61%).
+Highest road accidents of last 6 years are moderately severe (Severity-2).
+Around 15.2% of the road accidents occurred in between 6:00AM to 9:00AM.
+In evening, around 15.1% of the road accidents occurred in between 3:00PM to 6:00PM.
+The most-deadliest accident hours are 4:00PM implies the Evening Office-Returning Hours.
+The 2nd most-deadliest accident hour is 8:00AM implies the Morning Office-Going Hours.
+Working Days of the week have almost 2 times higher accident percentage, compared with the Weekend Days.
+Only around 16% road accident records occurred in weekend.
+FRIDAY of a week is having the highest percentage of road accidents.
+On Sunday the percentage of road accidents in US is lowest.
+Around 18% of the road accidents occurred in the month of December.
+July is month with least (3.54%) no. of road accidents in US.
+45% of the road accidents occurred only within the 3 months,October to December(i.e.,transition period from Autumn to Winter).
+Almost in every case (99.95%) Bumper was absent in the accident spot.
+In 11.47% cases, road accidents happened near the crossing.
+In 97.20% cases, there were no Stop near the accident area.
+7.20% road accident cases recorded near the junctions.
+There are no accident cases recorded near the Turning Loop.
+14.75% road accident cases recorded near the traffic signal.
+In the temperature range of 61(F) - 91(F), 51% of the road accidents occurred.
+In maximum cases (15.39%) of road accident, the humidity range is between 81% - 91%.
+In 70.73% of road accident cases, the air pressure range is between 20(in) - 30(in).
+In most of the cases (26.27%) of road accident, the wind chill range is between 51 - 71.
+For around 35% of road accident cases, the wind speed range is between 5(mph) - 10(mph).
+In maximum cases (77.71%) of road accident, the Visibility range is between 9(mi) - 10(mi).
+In most of the cases (34.8%) the weather was Fair and approximately in 13.25% cases it was mostly cloudy.
